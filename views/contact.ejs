@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="./css/output.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/flowbite.min.css" rel="stylesheet" />
+</head>
+
+<body>
+    <!-- Container for demo purpose -->
+    <section class="mb-32 mx-auto">
+        <div id="map" class="relative h-[300px] overflow-hidden bg-cover bg-[50%] bg-no-repeat">
+            <iframe
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11672.945750644447!2d-122.42107853750231!3d37.7730507907087!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80858070cc2fbd55%3A0xa71491d736f62d5c!2sGolden%20Gate%20Bridge!5e0!3m2!1sen!2sus!4v1619524992238!5m2!1sen!2sus"
+                width="100%" height="480" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        </div>
+        <div class="container mx-auto p-6 md:p-12">
+            <div
+                class="bg-white rounded-lg shadow-md p-6 md:p-8 mt-[-100px] backdrop-blur-[30px] border border-gray-300">
+                <div class="flex flex-wrap gap-4">
+
+
+
+                    <div class="mb-8 w-full md:w-1/2">
+                        <form method="post" action="https://api.web3forms.com/submit">
+                            <div class="mb-4">
+                                <input type="hidden" name="access_key" value="8ca729c1-f6c8-4e61-8bb8-7a1d1a497027" />
+                                <input type="text" name="name" class="w-full border-2 rounded py-2 px-4" id="nameInput"
+                                    placeholder="Name" />
+                            </div>
+                            <div class="mb-4">
+                                <input type="email" name="email" class="w-full border-2 rounded py-2 px-4" id="emailInput"
+                                    placeholder="Email address" />
+                            </div>
+                            <div class="mb-4">
+                                <textarea name="message" class="w-full border-2 rounded py-2 px-4" id="messageInput" rows="3"
+                                    placeholder="Message"></textarea>
+                            </div>
+                            <button type="submit" class="w-full bg-blue-500 text-white font-bold text-xl py-2 rounded">
+                                Send
+                            </button>
+                        </form>
+                    </div>
+
+
+
+                    <div class="w-full md:w-1/2">
+                        <div class="mb-8 md:mb-0">
+                            <div class="flex items-start">
+                                <div class="bg-sky-200 p-4 text-primary rounded-md">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none"
+                                        viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path>
+                                    </svg>
+                                </div>
+                                <div class="ml-4">
+                                    <p class="mb-2 font-bold">Technical support</p>
+                                    <p class="text-sm text-neutral-500">example@gmail.com</p>
+                                    <p class="text-sm text-neutral-500">1-600-890-4567</p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Repeat the above structure for other information sections -->
+                    </div>
+
+                    <div class="w-full md:w-1/2">
+                        <div class="mb-8 md:mb-0">
+                            <div class="flex items-start">
+                                <div class="bg-sky-200 p-4 text-primary rounded-md">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none"
+                                        viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path>
+                                    </svg>
+                                </div>
+                                <div class="ml-4">
+                                    <p class="mb-2 font-bold">Contact Number</p>
+                                    <p class="text-sm text-neutral-500">1-600-890-4567</p>
+                                </div>
+                            </div>
+                        </div>
+
+
+
+                    </div>
+
+                    <div class="w-full md:w-1/2">
+                        <div class="mb-8 md:mb-0">
+                            <div class="flex items-start">
+                                <div class="bg-sky-200 p-4 text-primary rounded-md">
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none"
+                                        viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                            d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path>
+                                    </svg>
+                                </div>
+                                <div class="ml-4">
+                                    <p class="mb-2 font-bold">Address</p>
+                                    <p class="text-sm text-neutral-500">Kalawad Road,Rajkot</p>
+                                    <p class="text-sm text-neutral-500">Gujarat - India</p>
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+    <!-- Container for demo purpose -->
+</body>
+
+</html>

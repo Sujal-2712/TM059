@@ -1,0 +1,51 @@
+hospital_id,latitude,longitude,name,address
+1,22.303461,70.778741,"Civil Hospital",Sadar,Rajkot,Gujarat,360001
+2,22.308123,70.782546,"Sterling Hospital",Near Rajkot Airport,Rajkot,Gujarat,360003
+3,22.316061,70.776383,"Wockhardt Hospital",Dr. Yagnik Rd,Rajkot,Gujarat,360002
+4,22.297016,70.810040,"Government Dental College and Hospital",Near Kankotara Chowk,Rajkot,Gujarat,360002
+5,22.287206,70.798153,"Apollo Hospital",Near Jagnath Mahadev,Rajkot,Gujarat,360006
+6,22.303680,70.785147,"Dhanwantri Hospital",Dr. Yagnik Rd,Rajkot,Gujarat,360002
+7,22.298733,70.796151,"Reliance Hospital",Near Gondal Road,Rajkot,Gujarat,360001
+8,22.300524,70.783028,"Shree Krishna Hospital",Near Kothariya Circle,Rajkot,Gujarat,360002
+9,22.296647,70.805338,"Shree Sarvajanik Hospital",Near Dhebar Road,Rajkot,Gujarat,360005
+10,22.301681,70.783321,"Saurashtra Hospital",Near Gondal Chowk,Rajkot,Gujarat,360001
+11,22.287782,70.794383,"Shree Pranav Hospital",Near Race Course,Rajkot,Gujarat,360005
+12,22.290964,70.804256,"Shree Mahavir Hospital",Near Nirmala Colony,Rajkot,Gujarat,360005
+13,22.310561,70.775857,"Kasturba Hospital",Near Laxmi Baug,Rajkot,Gujarat,360002
+14,22.314538,70.775582,"Rajkot Orthopaedic Hospital",Near Dhebar Road,Rajkot,Gujarat,360005
+15,22.310137,70.782401,"Sanghvi Hospital",Near Raiya Circle,Rajkot,Gujarat,360001
+16,22.285727,70.795985,"Dhiraj General Hospital",Near Dhebar Road,Rajkot,Gujarat,360005
+17,22.294140,70.796804,"Shree Ramkrishna Netralaya",Near Gondal Road,Rajkot,Gujarat,360001
+18,22.310024,70.773719,"Darshan Hospital",Near Bhavanagar Chowk,Rajkot,Gujarat,360001
+19,22.297376,70.765486,"Jankalyan Hospital","Mavdi, Rajkot, Gujarat, 360004"
+20,22.287628,70.803571,"Vaniyavad Eye Hospital","Nana Mauva Main Road, Rajkot, Gujarat, 360005"
+21,22.293946,70.783234,"Siddharth Hospital","Yagnik Road, Rajkot, Gujarat, 360001"
+22,22.292642,70.794137,"Shradhha Surgical & Orthopedic Hospital","Race Course Ring Road, Rajkot, Gujarat, 360001"
+23,22.312756,70.775502,"Vision Eye Hospital","Jalaram Nagar, Rajkot, Gujarat, 360005"
+24,22.289759,70.781763,"Gurukrupa Maternity Home","Mavdi Main Road, Rajkot, Gujarat, 360004"
+25,22.301513,70.793615,"Dhruti Hospital","Race Course Road, Rajkot, Gujarat, 360001"
+26,22.316610,70.799998,"Star Multi Speciality Hospital","Near Astron Cinema, Rajkot, Gujarat, 360001"
+27,22.307580,70.777522,"Shrey Orthopaedic Hospital","Kalawad Road, Rajkot, Gujarat, 360007"
+28,22.301186,70.780838,"Shreeji Hospital","Mavdi, Rajkot, Gujarat, 360004"
+29,22.302825,70.793027,"Shreeji Orthopedic & General Hospital","Race Course, Rajkot, Gujarat, 360001"
+30,22.294531,70.776768,"Tirth Surgical Hospital","Yagnik Road, Rajkot, Gujarat, 360001"
+31,22.316496,70.800314,"Aum Hospital","Near Astron Chowk, Rajkot, Gujarat, 360001"
+32,22.308748,70.785893,"Lions Blood Bank & Eye Hospital","Yagnik Road, Rajkot, Gujarat, 360001"
+33,22.310407,70.778660,"Dev Hospital","Yagnik Road, Rajkot, Gujarat, 360001"
+34,22.303401,70.796942,"Pooja Eye Hospital","Palace Road, Rajkot, Gujarat, 360001"
+35,22.305048,70.770911,"Mahavir Ortho Hospital","Gondal Road, Rajkot, Gujarat, 360004"
+36,22.308252,70.771596,"Paras Heart Care Hospital","Mavdi Main Road, Rajkot, Gujarat, 360004"
+37,22.305117,70.778508,"Amarnath General Hospital","Kalawad Road, Rajkot, Gujarat, 360007"
+38,22.310364,70.777144,"Krishna Hospital","Yagnik Road, Rajkot, Gujarat, 360001"
+39,22.306156,70.788470,"Shreeji General Hospital","Mavdi, Rajkot, Gujarat, 360004"
+40,22.305469,70.779282,"Mahavir Heart Institute & Research Center","Kalawad Road, Rajkot, Gujarat, 360007"
+41,22.307160,70.789025,"Raj Surgical Hospital","Mavdi Main Road, Rajkot, Gujarat, 360004"
+42,22.297176,70.780040,"Shyam Surgical Hospital","Mavdi, Rajkot, Gujarat, 360004"
+43,22.307838,70.775346,"Swastik Orthopaedic Hospital","Gondal Road, Rajkot, Gujarat, 360004"
+44,22.297497,70.785993,"Amarnath Multispeciality Hospital","Mavdi Main Road, Rajkot, Gujarat, 360004"
+45,22.303982,70.782058,"Aashirvad Hospital","Mavdi, Rajkot, Gujarat, 360004"
+46,22.297503,70.770823,"Raj Physiotherapy Hospital","Sadar, Rajkot, Gujarat, 360001"
+47,22.308077,70.773492,"Patel Hospital","Kalawad Road, Rajkot, Gujarat, 360007"
+48,22.296887,70.775422,"Sarvottam Hospital","Gondal Road, Rajkot, Gujarat, 360004"
+49,22.310820,70.780164,"Sarovar Hospital","Yagnik Road, Rajkot, Gujarat, 360001"
+50,22.302413,70.798507,"Maven Hospital","Race Course Ring Road, Rajkot, Gujarat, 360001"
