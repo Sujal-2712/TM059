@@ -144,7 +144,7 @@ const getNearestHospital = async (lat, lng) => {
           location: `${lat},${lng}`,
           radius: 5000,
           keyword: "hospital",
-          key: "AIzaSyAgdbAN9IV7CB9kFDCJlZpC-2U0YPLUlbc",
+          key: "API_KEY",
         },
       }
     );
